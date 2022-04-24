@@ -302,6 +302,10 @@ nav {
     width: 377px;
     /* line-height: 34px; */
     margin-top: 26px;
+    width: 200px;
+    /* line-height: 34px; */
+    margin-top: 26px;
+    padding-right: 91px;
 }
 
 @keyframes shring-animation {
